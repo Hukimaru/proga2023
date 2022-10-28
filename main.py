@@ -26,8 +26,8 @@ circle(screen, (0, 0, 0), leye, 40, 5)#левый обвод
 circle(screen, (0, 0, 0), leye, 20, 0)#левый зрачок
 
 reye = (circ_kor[0] + 100, circ_kor[1] - 50)#центр левого
-circle(screen, (255, 0, 0), reye, 70, 0)#левый красный
-circle(screen, (0, 0, 0), reye, 70, 5)#левый обвод
+circle(screen, (255, 0, 0), reye, 40, 0)#левый красный
+circle(screen, (0, 0, 0), reye, 40, 5)#левый обвод
 circle(screen, (0, 0, 0), reye, 20, 0)#левый зрачок
 
 #рот
